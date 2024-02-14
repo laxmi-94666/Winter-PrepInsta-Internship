@@ -30,4 +30,4 @@ Week 4 of the PrepInsta Winter Internship primarily focused on data visualizatio
 ## Conclusion
 Week 4 was an immersive journey into data visualization techniques, leveraging Python libraries to recreate compelling visualizations similar to Hans Rosling's motion graph. The gained insights provided a profound understanding of global health indicators, population trends, and correlations, fostering a deeper appreciation of data-driven insights.
 
-*Let's continue this fascinating exploration of data together!*
+*Let's continue this fascinating exploration of data together!*  
