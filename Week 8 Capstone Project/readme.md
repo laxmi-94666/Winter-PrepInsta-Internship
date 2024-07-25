@@ -10,7 +10,7 @@ The merged datasets offer a rich source of insights, paving the way for detailed
 
 ## Tableau Dashboard
 
-The pinnacle of the project is the creation of a dynamic Tableau dashboard, hosted live [here](https://public.tableau.com/app/profile/arijit.dhali/viz/FitnessDashboard_17066249737060/HomeDashboard). This interactive dashboard encapsulates the essence of the fitness data, making it accessible and user-friendly.
+The pinnacle of the project is the creation of a dynamic Tableau dashboard, hosted live. This interactive dashboard encapsulates the essence of the fitness data, making it accessible and user-friendly.
 
 ## Repository Structure
 
