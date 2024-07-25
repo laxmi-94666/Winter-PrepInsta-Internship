@@ -1,4 +1,3 @@
-
 # Fitness Tracking Dashboard Project
 
 ## Overview
